@@ -1,2 +1,2 @@
-# bdrelacionales
-Base de datos relacionales
+# Jan Carlo Martinez Quintero
+4AVP
