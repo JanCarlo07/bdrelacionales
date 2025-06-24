@@ -3,7 +3,7 @@
 $host = 'localhost';
 $user = 'root';
 $pass ='';
-$dbname = 'futbol';
+$dbname = 'deportes';
 
 //Crear conexón
 $conn = new mysqli($host, $user, $pass, $dbname);
